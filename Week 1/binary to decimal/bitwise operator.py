@@ -12,3 +12,4 @@ def decToBinary(n):
 if __name__ == "__main__":
     n =12
     print(decToBinary(n))
+    # bitwise method is faster and efficient
